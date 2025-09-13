@@ -20,5 +20,7 @@ The script is structured into four main parts:
 give the minimum input start from 5
 
 ###Output look like 
+
+
 <img width="256" height="418" alt="image" src="https://github.com/user-attachments/assets/210f7aee-2ca0-4df5-a70f-1382983d501c" />
 
